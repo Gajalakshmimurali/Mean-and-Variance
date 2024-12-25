@@ -1,7 +1,10 @@
 #  Mean and variance of a discrete  distribution
 EX.NO:1
+
 DATE:
+
 NAME:M.GAJALAKSHMI
+
 REGISTER NO:24900240
 
 # Aim : 
